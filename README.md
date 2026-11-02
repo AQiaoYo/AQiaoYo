@@ -13,8 +13,6 @@
 ## 项目
 
 - [NapCatQQ Desktop](https://github.com/NapNeko/NapCatQQ-Desktop)：管理 NapCatQQ 和 SnowLuma 的桌面应用。
-- [SnowLuma](https://github.com/AQiaoYo/SnowLuma)：远端协议框架。
-- [NapCatQQ](https://github.com/NapNeko/NapCatQQ)：基于 NTQQ 的协议侧框架。
 
 ## GitHub 活动
 
