@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  你好，我是 Qiao。平时主要做 QQ Bot 生态、桌面工具和自动化。
+  你好，我是 Qiao
 </p>
-
-## 项目
-
-- [NapCatQQ Desktop](https://github.com/NapNeko/NapCatQQ-Desktop)：管理 NapCatQQ 和 SnowLuma 的桌面应用。
 
 ## GitHub 活动
 
